@@ -17,6 +17,6 @@ public Rechteck(double len, double hoehe) {
 /* 3) Implementierung von getFlaeche( ) */
 
 public double getFlaeche(){
-	return this.len * this.hoehe; 
+	return this.len * this.hoehe; // Flächeninhalt Seitenlänge * Höhe 
 	}
 }

@@ -8,7 +8,7 @@ public class Quadrat {
  /* Implementierung der Funktion „getFlaeche“ */
  
  public double getFlaeche ( ) {
-	 return this.len * this.len; 
+	 return this.len * this.len;   // Flächeninhalt seitenlänge*seitenlänge
 	 }
 
 }
