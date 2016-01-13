@@ -4,8 +4,11 @@ public class Quadrat {
  public Quadrat(double len){
  this.len = len;
  }
+ 
  /* Implementierung der Funktion „getFlaeche“ */
+ 
  public double getFlaeche ( ) {
-	 return this.len * this.len; }
+	 return this.len * this.len; 
+	 }
 
 }
