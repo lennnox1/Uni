@@ -1,6 +1,6 @@
 package RusTools;
 public class Quadrat {
-protected double len; // Seitenlaenge
+private double len; // Seitenlaenge
  
  
  
