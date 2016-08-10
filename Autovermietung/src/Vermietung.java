@@ -8,7 +8,7 @@ public class Vermietung {
 		LKW LKW1 = new LKW(1000,"BOPV2907",1800);
 		LKW1.vermieten();
 		PKW1.vermieten();
-		//PKW1.Return(2,29100);
+		PKW1.Return(2,29100);
 		KFZvorhanden();
 	}
 	public static void KFZvorhanden(){

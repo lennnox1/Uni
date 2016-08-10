@@ -22,7 +22,7 @@ public class PKW extends Fahrzeug{
 		super.vermieten();	
 	}
 	
-	//public void 
+	//public class PKW(){
 	
 	/*int km_stand;
 	int km_gefahren;
